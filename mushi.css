@@ -1,0 +1,30 @@
+@charset "utf-8";
+    
+    html{
+        background-color: chartreuse;
+}
+table{
+    background-color: aliceblue;
+}
+h1{
+    font-size: 28px;
+}
+p{
+    font-size: 28px;
+}
+.shiro{
+    background-color: aliceblue;
+height: 110px;
+}
+.red{color:red;}
+
+a{
+    margin: 2em 0;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+    background: #FFF;
+    
+}
+.top{height: 30px;}
